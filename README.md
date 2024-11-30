@@ -14,21 +14,15 @@ To develop a mobile app using Flutter that streamlines the management of operati
 
 - **UI**: The application offers an intuitive and user-friendly interface built with flutter, making it easy to navigate and use.
 
-- **Calories Calculator**: Users can input their daily food intake and physical activities to estimate their daily calorie balance.
-
-- **BMI Calculator**: Calculate BMI by providing height and weight measurements, helping users assess their fitness and health.
-
-- **Workout Menu**: Access a variety of workout routines to plan and record your fitness activities.
-
-
+- 
 ## Video :
 
-<video src="https://github.com/Vivekingale7/J_PRoject/blob/main/278893484-a8ff69ad-e27d-493e-9ef5-c0771913033f.mp4" control auotplay> <video>
+<video src="https://github.com/Vivekingale7/Food-factory/blob/main/VID-20240430-WA0002.mp4" control auotplay> <video>
 
 ## Usage :
 
 - Launch the application.
-- Use the menu to select the desired tool (Calories Calculator, BMI Calculator, or Workout Menu).
+- used for the hotel use that there hotel management
 - Follow the on-screen instructions to input your data and utilize the features.
 
 ## Concept :
